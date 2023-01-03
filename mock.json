@@ -1,0 +1,74 @@
+{
+  "author": "ryanstevens",
+  "data": {
+    "home": {
+      "hero_text": {
+        "id": 1,
+        "value": "Best roofers in your town",
+        "last_changed": "2022-12-12 11:14:35"
+      },
+      "cards": {
+        "id": 2,
+        "data": [
+          {
+            "id": "card1",
+            "data": [
+              {
+                "header": {
+                  "id": 1,
+                  "value": "New Roofs",
+                  "last_changed": "2022-12-12 11:14:35"
+                }
+              },
+              {
+                "text": {
+                  "id": 1,
+                  "value": "Lorem ipsum blablablablalbalbba",
+                  "last_changed": "2022-12-12 11:14:35"
+                }
+              }
+            ]
+          },
+          {
+            "id": "card2",
+            "data": [
+              {
+                "header": {
+                  "id": 1,
+                  "value": "New Roofs 2",
+                  "last_changed": "2022-12-12 11:14:35"
+                }
+              },
+              {
+                "text": {
+                  "id": 1,
+                  "value": "Lorem ipsuw213123m blablablablalbalbba",
+                  "last_changed": "2022-12-12 11:14:35"
+                }
+              }
+            ]
+          },
+          {
+            "id": "card3",
+            "data": [
+              {
+                "header": {
+                  "id": 1,
+                  "value": "New Roofs 3",
+                  "last_changed": "2022-12-12 11:14:35"
+                }
+              },
+              {
+                "text": {
+                  "id": 1,
+                  "value": "Lorem ipsuw213123m blablablablalbalbba",
+                  "last_changed": "2022-12-12 11:14:35"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
