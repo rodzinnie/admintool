@@ -4,6 +4,11 @@
 
 `fix/[ticket-number]` - for bug fixes
 
+### File naming convention: 
+
+- naming convention: `src/components/[appropriate location i.e. 'common']/[ComponentName]/index.tsx`
+- add the new export to root index file
+
 ### Git flow
 
 1. Create new branch
