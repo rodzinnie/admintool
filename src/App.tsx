@@ -1,8 +1,10 @@
 import './App.css'
 import { Routes, Route, Outlet } from 'react-router-dom'
 import { useSelector, useDispatch } from 'react-redux'
-import Home from './components/Home'
-import About from './components/About'
+import {
+  Home,
+  About
+} from './components/pages'
 
 const App = () => {
   return (
