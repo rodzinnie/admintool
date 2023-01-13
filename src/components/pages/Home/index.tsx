@@ -1,12 +1,12 @@
 import { SideBar } from '../../common'
-import { MainLayout } from '../../layouts'
-import { StyledHome } from './index.styles'
+import { Content } from '../../layouts'
+import { StyledHome } from '../Home/index.styles'
 
 const Home = () => {
   return (
     <StyledHome>
       <SideBar />
-      <MainLayout />
+      <Content />
     </StyledHome>
   )
 }
