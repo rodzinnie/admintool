@@ -20,3 +20,6 @@
 1. Wait for acceptance (CR)
 1. Squash commits
 1. Merge to master
+
+### Current branch protections in place: 
+1. `master` - to merge your code to the master branch, you have to request a review from at least 1 collaborator, other than the last pusher.
