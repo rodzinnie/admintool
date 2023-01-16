@@ -22,4 +22,4 @@
 1. Merge to master
 
 ### Current branch protections in place: 
-1. `master` - to merge your code to the master branch, you have to request a review from at least 1 collaborator, other than the last pusher.
+1. `master` - to merge your code to the master branch, you have to request a review from at least 1 collaborator, other than the last pusher. This branch is locked from pushing.
