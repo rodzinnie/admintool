@@ -1,7 +1,14 @@
-import React from 'react'
+import { SideBar } from '../../common'
+import { Content } from '../../layouts'
+import { StyledHome } from '../Home/index.styles'
 
 const Home = () => {
-  return <div>Home</div>
+  return (
+    <StyledHome>
+      <SideBar />
+      <Content />
+    </StyledHome>
+  )
 }
 
 export default Home

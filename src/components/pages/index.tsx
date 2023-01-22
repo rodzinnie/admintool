@@ -1,2 +1,2 @@
-export { default as About } from './About'
+export { default as About } from './UserProfile'
 export { default as Home } from './Home'

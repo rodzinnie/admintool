@@ -1,9 +1,7 @@
-import React from 'react'
+import { SideBar } from './index.styles'
 
 function index() {
-  return (
-    <div>SideBar</div>
-  )
+  return <SideBar>SideBar</SideBar>
 }
 
 export default index

@@ -1,9 +1,7 @@
-import React from 'react'
+import { StyledNavBar } from './index.styles'
 
-function index() {
-  return (
-    <div>NavBar</div>
-  )
+const NavBar = () => {
+  return <StyledNavBar>NavBar</StyledNavBar>
 }
 
-export default index
+export default NavBar
